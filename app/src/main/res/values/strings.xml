@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+
+    <!-- Menu labels -->
+    <string name="action_most_popular" translatable="false">Most Popular</string>
+    <string name="action_top_rated" translatable="false">Top Rated</string>
+    <string name="action_favorites" translatable="false">Favorites</string>
+    <string name="action_share" translatable="false">Share</string>
+
+    <string name="content_authority">com.udacity.mohamed.popularmovies</string>
+    <string name="failure_msg">Oops! Something Went Wrong, Please try again!</string>
+
+    <!-- Movies Fragment -->
+    <string name="no_internet">No internet available, Please check your connection!</string>
+    <string name="waiting">Please Wait</string>
+
+    <!-- Details Fragment -->
+    <string name="add_to_favorite">Add To Favorites</string>
+    <string name="remove_from_favorite">Remove From Favorites</string>
+    <string name="favorite_added_msg">Successfully added to Favorites</string>
+    <string name="favorite_removed_msg">Removed From Favorites</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="videos_failure_msg">Oops! Could not Load Trailers, Please check your internet connection!</string>
+    <string name="reviews_failure_msg">Oops! Could not Load Reviews, Please check your internet connection!</string>
+
+</resources>
